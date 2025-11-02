@@ -1,7 +1,7 @@
 // Superclass Device
 class Device {
 
-// Attributes
+// Attributes 
 protected String deviceName;
     
 protected String status;
