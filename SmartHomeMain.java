@@ -183,5 +183,5 @@ d.displayInfo();
 }
 
 // Display the Total Number of Devices using the showDeviceCount() method
-Device.showDeviceCount(); // Added for demonstration only. We wanted to show that the showDeviceCount() method work properly.
+Device.showDeviceCount(); // Added for demonstration only. We wanted to show that the showDeviceCount() method works properly.
 }}
